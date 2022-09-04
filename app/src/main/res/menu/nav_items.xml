@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/btn_list"
+        android:title="Hjem"
+        android:icon="@drawable/ic_baseline_list_24" />
+    <item android:id="@+id/btn_map"
+        android:title="Kart"
+        android:icon="@drawable/ic_baseline_map_24" />
+    <item android:id="@+id/btn_settings"
+        android:title="Instillinger"
+        android:icon="@drawable/ic_baseline_settings_24" />
+</menu>
